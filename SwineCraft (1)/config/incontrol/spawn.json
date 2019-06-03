@@ -1,0 +1,21 @@
+#maxcount = maximum number of each type of mob spawned around a player (ex. fewer pig's spawned lower number more pigs increase number.)
+[
+  {
+    "mob": "minecraft:zombie_pigman",
+    "maxcount": 10,
+    "result": "allow"
+  },
+  {
+    "mob": "minecraft:zombie_pigman",
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:pig",
+    "maxcount": 10,
+    "result": "allow"
+  },
+  {
+    "mob": "minecraft:pig",
+    "result": "deny"
+  }
+]

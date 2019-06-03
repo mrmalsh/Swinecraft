@@ -1,0 +1,21 @@
+#weight = pig is 5x more important than zombie_pigman
+#groupcount min and max determine min max number spawned at same time in same spot
+
+[
+  {
+    "dimension": 1024,
+    "mobs": [
+      {"mob": "minecraft:zombie_pigman",
+      "weight": 5,
+      "groupcountmin": 1,
+      "groupcountmax": 2
+    },
+    {
+      "mob": "minecraft:pig",
+      "weight": 25,
+      "groupcountmin": 1,
+      "groupcountmax": 3
+    }
+    ]
+  }
+]

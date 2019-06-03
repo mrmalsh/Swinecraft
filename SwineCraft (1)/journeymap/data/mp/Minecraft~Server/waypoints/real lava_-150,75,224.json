@@ -1,0 +1,18 @@
+{
+  "id": "real lava_-150,75,224",
+  "name": "real lava",
+  "icon": "waypoint-normal.png",
+  "x": -150,
+  "y": 75,
+  "z": 224,
+  "r": 125,
+  "g": 187,
+  "b": 110,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    1024
+  ],
+  "persistent": true
+}

@@ -1,0 +1,33 @@
+{
+  "dimensions": [
+    {
+      "dim": 1024,
+      "dimensiontype": {
+        "id": 1024,
+        "name": "Pigworld",
+        "suffix": "_dim1024",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderSurfaceJED"
+      },
+      "worldinfo_onetime": {
+        "JED": {
+          "CustomDayCycle": "true",
+          "DayLength": "6400",
+          "NightLength": "2400",
+          "CloudColor": "FDAFFF",
+          "SkyColor": "1ED6FE"
+        }
+      }
+    },
+    {
+      "dim": 1025,
+      "dimensiontype": {
+        "id": 1025,
+        "name": "Boss",
+        "suffix": "_dim1025",
+        "keeploaded": false,
+        "worldprovider": "WorldProviderEndJED"
+      }
+	}
+  ]
+}
